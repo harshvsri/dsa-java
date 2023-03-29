@@ -37,5 +37,5 @@ cd dsa-java
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
-## Authors
-Your Name - Initial work - Your GitHub username
+## Author
+Hrash V Srivastava - harshvri
