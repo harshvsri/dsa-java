@@ -13,11 +13,11 @@ java -version
 ## Installing
 To get started, clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/dsa-java.git
+git clone https://github.com/harshvsri/DSA-JAVA-SourceCode.git
 ```
 Navigate to the project directory:
 ```
-cd dsa-java
+cd DSA-JAVA-SourceCode
 ```
 
 ## Contents
