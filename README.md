@@ -28,7 +28,7 @@ cd DSA-JAVA-SourceCode
 * Stacks
 * Queues
 
-## Algorithms
+### Algorithms
 * Sorting Algorithms (Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort, Heap Sort)
 * Searching Algorithms (Linear Search, Binary Search)
 * String Algorithms (Pattern Matching, Edit Distance)
